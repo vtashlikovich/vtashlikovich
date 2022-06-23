@@ -9,4 +9,4 @@ Learning new techs more than 25 years. Love to program, automate, create new pro
 
 :guardsman: Head of the IT department in outsourcing company
 
-📫 Reach me via sandwars@gmail.com, http://tashlikovich.info
+📫 Reach me via drackon@gmail.com, http://tashlikovich.info

@@ -9,4 +9,4 @@ Learning new techs more than 25 years. Love to program, automate, create new pro
 
 :guardsman: Head of the IT department in outsourcing company
 
-📫 Reach me via vadzim@tashlikovich.com, http://tashlikovich.info
+📫 Reach me via vadzim@tashlikovich.com, https://tashlikovich.info

@@ -3,9 +3,9 @@
 Learning new techs more than 25 years. Love to program, automate, create new products.
 
 🌱 Currently interested in:
-- microservices architecture, distributed transactions processing
 - optimal cloud-based enterprise solutions
 - machine learning/NLP
+- application of LLM, RAG applications
 
 :guardsman: Head of the IT department in outsourcing company
 

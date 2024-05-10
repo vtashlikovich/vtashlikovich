@@ -5,7 +5,7 @@ Learning new techs more than 25 years. Love to program, automate, create new pro
 🌱 Currently interested in:
 - optimal cloud-based enterprise solutions
 - machine learning/NLP
-- application of LLM, RAG applications
+- application of LLM in real-life projects
 
 :guardsman: Head of the IT department in outsourcing company
 

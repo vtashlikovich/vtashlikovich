@@ -5,9 +5,8 @@
 Learning new techs more than 25 years. Love to program, automate, create new products.
 
 🌱 Currently interested in:
-- optimal cloud-based solutions
-- ML/AI
-- application of LLM in real-life projects
+- ML
+- AI-agents
 
 :guardsman: Head of the IT department in outsourcing company
 
